@@ -1,0 +1,13 @@
+packages: *.cabal
+
+source-repository-package
+  type: git
+  location: https://github.com/Simre1/hero
+  tag: 99399835a983cc175870550f88665f50872d8be8
+
+source-repository-package
+  type: git
+  location: https://github.com/Simre1/hero
+  tag: 99399835a983cc175870550f88665f50872d8be8
+  subdir: hero-sdl2
+   
