@@ -29,7 +29,7 @@ executable hero-unity-tutorial-haskell
 
     -- LANGUAGE extensions used by modules in this package.
     -- other-extensions:
-    build-depends:  base ^>=4.16.3.0, hero, hero-sdl2, sdl2-image, linear, optics-core
+    build-depends:  base ^>=4.16.3.0, hero, hero-sdl2, sdl2-image, linear, optics-core, containers, random, mtl
     hs-source-dirs:   app
     default-language: GHC2021
     default-extensions:
